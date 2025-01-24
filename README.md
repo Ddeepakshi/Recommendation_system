@@ -1,4 +1,5 @@
 🎥 Movie Recommendation System
+
 Welcome to the Movie Recommendation System! This is a simple project that provides movie recommendations based on content similarity using cosine similarity. The system analyzes the movie data and suggests movies similar to a selected one.
 
 📚 Overview
